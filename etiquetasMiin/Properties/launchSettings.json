@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "etiquetasMiin": {
+      "commandName": "Project",
+      "commandLineArgs": "1 2023 PWFR 300023 1"
+    }
+  }
+}
